@@ -7,6 +7,7 @@ namespace FirstExample
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            // here is a commment
         }
     }
 }
